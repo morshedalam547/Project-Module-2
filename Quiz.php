@@ -12,7 +12,7 @@ function evaluateQuiz(array $questions, array $answers): int {
 
 $questions = [
     ['question' => 'What is the capital of France?', 'answer' => 'Paris'],
-    ['question' => 'What is 5 + 3?', 'answer' => '8'],
+    ['question' => 'What is 5 + 3 ?', 'answer' => '8'],
     ['question' => 'Who wrote "Hamlet"?', 'answer' => 'Shakespeare'],
 ];
 $answers = [];
